@@ -11,7 +11,7 @@ Tenho 27 anos, sou de São Paulo/SP e estou cursando Análise e Desenvolvimento 
   <img align="left" alt="Python" title="Python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
   <img align="left" alt="Git" title="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
   <img align="left" alt="GitHub" title="GitHub" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
-  <img align="left" alt="SQL Developer" title="SQL Delevoper" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-plain.svg"/>
+  <img align="left" alt="SQL Developer" title="SQL Developer" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-plain.svg"/>
 </div><br><br>
 
 <br><br><div>
