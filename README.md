@@ -16,6 +16,6 @@ Tenho 27 anos, sou de São Paulo/SP e estou cursando Análise e Desenvolvimento 
 
 <br><br><div>
 <a href="https://github.com/AugustoCesr">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=AugustoCesr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoCesr&layout=compact&langs_count=7&theme=tokyonight&locale=pt-br&custom_title=Tecnologias"/>
+<img align="left" loading="lazy" height="180em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AugustoCesr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
+<img align="left" loading="lazy" height="180em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoCesr&layout=compact&langs_count=7&theme=tokyonight&locale=pt-br&custom_title=Tecnologias"/>
 </div>
