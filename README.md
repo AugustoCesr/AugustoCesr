@@ -2,7 +2,7 @@
 
 Tenho 27 anos, sou de São Paulo/SP e estou cursando Análise e Desenvolvimento de Sistemas na FIAP.
 
-### :robot: Tecnologias que tenho conhecimento e estou aprendendo
+### :robot: Tecnologias que tenho conhecimento e estou estudando
 <div display="flex">
   <img align="left" alt="Java" title="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
   <img align="left" alt="HTML" title="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg""/>
