@@ -5,6 +5,7 @@ Tenho 27 anos, sou de São Paulo/SP e estou cursando Análise e Desenvolvimento 
 ### :robot: Tecnologias que tenho conhecimento e estou estudando
 <div display="flex">
   <img align="left" alt="Java" title="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+  <img align="left" alt="Kotlin" title="Kotlin" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
   <img align="left" alt="HTML" title="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg""/>
   <img align="left" alt="CSS" title="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"/>
   <img align="left" alt="JavaScript" title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
