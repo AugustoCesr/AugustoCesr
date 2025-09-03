@@ -1,6 +1,6 @@
 ## :skull: Augusto Cesar
 
-Tenho 27 anos, sou de São Paulo/SP e estou cursando Análise e Desenvolvimento de Sistemas.
+Tenho 28 anos, sou de São Paulo/SP e estou cursando Análise e Desenvolvimento de Sistemas.
 
 ### :robot: Tecnologias que tenho conhecimento e estou estudando
 <div display="flex">
